@@ -1,0 +1,13 @@
+---
+title: "Test File"
+output: html_document
+date: "2022-10-27"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This document is used as a test for initializing Git-Hub.
