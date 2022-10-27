@@ -11,3 +11,10 @@ knitr::opts_chunk$set(echo = TRUE)
 ## R Markdown
 
 This document is used as a test for initializing Git-Hub.
+
+
+
+
+```{r}
+x <- rnorm(1000,0,.3) #Random Sample
+```
